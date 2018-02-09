@@ -1,0 +1,6 @@
+name: backupgate
+project: umbrellazone
+stack: 
+  - nodejs
+  - Docker
+is: DockerImage
